@@ -1,3 +1,3 @@
 # PoteChanges
 
-Additions for PotePat friends, custom mods for personnal uses
+Additions for PotePat friends, custom mods for personal uses

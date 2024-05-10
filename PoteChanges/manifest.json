@@ -1,0 +1,9 @@
+{
+    "name": "PoteChanges",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Xisabla/PotePat/tree/main/PoteChanges",
+    "description": "Additions for PotePat friends, custom mods for personnal uses",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
